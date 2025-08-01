@@ -68,3 +68,17 @@ button:hover {
 .register a:hover {
   text-decoration: underline;
 }
+
+
+.password-field {
+  position: relative;
+}
+
+
+.password-field i {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-100%);
+  cursor: pointer;
+}

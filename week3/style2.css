@@ -47,8 +47,9 @@ body {
 .buttons button {
   background: white;
   color: black;
+  font-size: 12px;
   border: none;
-  padding: 10px 9px;
+  padding: 13px 12px;
   margin: 0;
   border-radius: 50px;
   cursor: pointer;
